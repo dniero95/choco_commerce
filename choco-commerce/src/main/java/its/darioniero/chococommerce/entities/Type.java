@@ -17,7 +17,7 @@ public class Type {
     private Long id;
 
     @Column(name = "name", nullable = false)
-    private Long name;
+    private String name;
 
 
 }
